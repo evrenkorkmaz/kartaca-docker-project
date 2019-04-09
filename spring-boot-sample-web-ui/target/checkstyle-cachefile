@@ -1,0 +1,12 @@
+#Sat Apr 06 21:03:31 EET 2019
+/home/evren/Kartaca/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/test/java/sample/web/ui/MessageControllerWebTests.java=1554290094000
+/home/evren/Kartaca/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/main/java/sample/web/ui/MessageRepository.java=1554290094000
+/home/evren/Kartaca/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/main/java/sample/web/ui/SampleWebUiApplication.java=1554290094000
+/home/evren/Kartaca/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/main/java/sample/web/ui/mvc/MessageController.java=1554290094000
+/home/evren/Kartaca/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/main/java/sample/web/ui/Message.java=1554290094000
+module-resource*?\:file\:/home/evren/Kartaca/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
+/home/evren/Kartaca/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/test/java/sample/web/ui/SampleWebUiApplicationTests.java=1554290094000
+/home/evren/Kartaca/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/main/resources/messages.properties=1554290094000
+/home/evren/Kartaca/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/main/java/sample/web/ui/InMemoryMessageRepository.java=1554290094000
+configuration*?=765532580A2EDE1AD67F1E5F7636B28491BB1E3A
+/home/evren/Kartaca/spring-boot/spring-boot-samples/spring-boot-sample-web-ui/src/main/resources/application.properties=1554290094000

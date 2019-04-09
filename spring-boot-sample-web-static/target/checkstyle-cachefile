@@ -1,0 +1,5 @@
+#Sat Apr 06 20:51:48 EET 2019
+module-resource*?\:file\:/home/evren/Kartaca/spring-boot/spring-boot-samples/spring-boot-sample-web-static/../../src/checkstyle/import-control.xml=CBFE1CDFE640F7A868F258C4456E08F60CBE2552
+/home/evren/Kartaca/spring-boot/spring-boot-samples/spring-boot-sample-web-static/src/main/java/sample/web/staticcontent/SampleWebStaticApplication.java=1554290094000
+/home/evren/Kartaca/spring-boot/spring-boot-samples/spring-boot-sample-web-static/src/test/java/sample/web/staticcontent/SampleWebStaticApplicationTests.java=1554290094000
+configuration*?=409D704097F37C099F47BE3DD787156150E4CA07

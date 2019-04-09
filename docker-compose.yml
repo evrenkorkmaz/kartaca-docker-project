@@ -1,0 +1,27 @@
+﻿version: "2"
+
+services:
+    static:
+        image: spring-static
+        container_name: spring-static-app
+        build: ./spring-boot-sample-web-static
+        ports:
+            - 7070:7070
+
+    ui:
+        image: spring-ui
+        container_name: spring-ui-app
+        build: ./spring-boot-sample-web-ui
+        ports:
+            - 7000:7000
+
+    ng:
+        image: nginx
+        container_name: docker-nginx
+        ports:
+             - 9000:9000
+        depends_on:
+            - static
+            - ui
+        volumes:
+            - "./nginx-server/default.conf:/etc/nginx/conf.d/default.conf"
