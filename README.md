@@ -16,6 +16,7 @@ sudo docker-compose up
 docker-compose and spring boot when running check on your browser
 
 [http://localhost:9000](http://localhost:9000) 
+
 [http://localhost:9000/ui](http://localhost:9000/ui) 
 
 or check on your terminal 
