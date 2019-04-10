@@ -13,13 +13,14 @@ sudo apt-get install docker docker-compose nginx
 ```bash
 sudo docker-compose up
 ```
-docker-compose and spring boot when running check on your browser
+And then you can check it from your browser
 
 [http://localhost:9000](http://localhost:9000) 
 
 [http://localhost:9000/ui](http://localhost:9000/ui) 
 
-or check on your terminal 
+or check it on your terminal 
+
 ```bash
 curl http://localhost:9000
 curl http://localhost:9000/ui
