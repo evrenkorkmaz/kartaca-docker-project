@@ -1,13 +1,17 @@
 # kartaca-docker-project
 This project for Kartaca - Rise Through The Ranks Program
 
-## Installation
+## Requirments
+ docker
+ docker-compose
+ nginx
 
-Use the package manager to install docker docker-compose and nginx
+You can use the package manager to install docker docker-compose or nginx
 
 ```bash
 sudo apt-get install docker docker-compose nginx
 ```
+
 ## Usage
 
 ```bash
